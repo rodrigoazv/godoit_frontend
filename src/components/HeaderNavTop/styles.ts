@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const StyledHeader = styled.div`
+export const StyledHeaderNavTop = styled.div`
   display:flex;
   justify-content: space-between;
   align-items:center;
@@ -8,7 +8,9 @@ export const StyledHeader = styled.div`
   background: transparent;
 `;
 
-export const StyledLinks = styled.ul``;
+export const StyledLinks = styled.ul`
+    
+`;
 
 export const StyledLogo = styled.img``;
 
